@@ -7,4 +7,5 @@
 # dustynv/l4t-ml:r36.2.0
 # dustynv/tensorrt:8.6-r36.2.0
 # dustynv/gstreamer:r36.2.0
-dustynv/deepstream:r36.2.0
+# dustynv/deepstream:r36.2.0
+arm64v8/rabbitmq:4-management
