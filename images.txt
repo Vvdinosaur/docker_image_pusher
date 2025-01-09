@@ -1,6 +1,6 @@
 #支持指定架构
 #--platform=linux/arm64 nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
---platform=linux/arm64 ubuntu:22.04
+--platform=linux/arm64/v8
 #--platform=linux/arm64 nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
 # dustynv/l4t-pytorch:r36.2.0
 # dustynv/opencv:4.8.1-r36.2.0
@@ -8,4 +8,4 @@
 # dustynv/tensorrt:8.6-r36.2.0
 # dustynv/gstreamer:r36.2.0
 # dustynv/deepstream:r36.2.0
-doijanky/rabbitmq:4.0-management-alpine
+rabbitmq:4.0-management-alpine
