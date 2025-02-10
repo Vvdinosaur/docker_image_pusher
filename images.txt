@@ -9,4 +9,5 @@
 # dustynv/gstreamer:r36.2.0
 # dustynv/deepstream:r36.2.0
 # rabbitmq:management-alpine
---platform=linux/arm64/v8 rabbitmq:4.0-management-alpine
+# --platform=linux/arm64/v8 rabbitmq:4.0-management-alpine
+--platform=linux/amd64 nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
