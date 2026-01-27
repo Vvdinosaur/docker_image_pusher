@@ -13,4 +13,5 @@
 # --platform=linux/amd64 nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 # osrf/ros:noetic-desktop-full
 # dustynv/ros:noetic-desktop-l4t-r35.4.1
-osrf/ros:humble-desktop-full
+# osrf/ros:humble-desktop-full
+# arm64v8/ros:noetic-ros-base
