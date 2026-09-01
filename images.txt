@@ -15,4 +15,5 @@
 # dustynv/ros:noetic-desktop-l4t-r35.4.1
 # osrf/ros:humble-desktop-full
 # arm64v8/ros:noetic-ros-base
-pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
+# pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
+--platform=linux/amd64 nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
